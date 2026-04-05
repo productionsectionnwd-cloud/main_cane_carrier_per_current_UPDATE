@@ -1,0 +1,5 @@
+{
+  "name": "Cane Crush Analysis Dashboard",
+  "description": "Industrial dashboard analyzing TCD (Cane Crushed) against equipment current consumption with custom range bucketing.",
+  "requestFramePermissions": []
+}
